@@ -1,5 +1,8 @@
 _repo: The-Story-of-Little-Black-Mingo_11162
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bannerman, Helen
@@ -14,6 +17,8 @@ description: This is an electronic edition of the complete book complemented by 
   was designed for optimal navigation on the Kindle, PDA, Smartphone, and other electronic
   readers. It is formatted to display on all electronic devices including the Kindle,
   Smartphones and other Mobile Devices with a small display.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11162#The-Story-of-Little-Black-Mingo
 gutenberg_bookshelf: Children's Picture Books
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
